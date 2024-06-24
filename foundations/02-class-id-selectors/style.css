@@ -1,0 +1,20 @@
+.odd {
+    background-color: lightpink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+  }
+  
+  #number2 {
+    color: #1E90FF; /* DodgerBlue */
+    font-size: 36px;
+  }
+
+#number4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+.odd.cooler {
+    font-size: 24px;
+    font-weight: bold;
+}
